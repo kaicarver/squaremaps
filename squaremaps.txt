@@ -1,0 +1,70 @@
+I liked a map of the US on the Economist made with a square for each state.
+
+   US states:
+
+
+   AK                            ME
+		  WI          VT NH
+   WA ID MT ND MN IL MI    NY MA
+   OR NV WY SD IA IN OH PA NJ CT RI
+   CA UT CO NE MO KY WV VA MD DE
+      AZ NM KS AR TN NC SC DC
+	    OK LA MS AL GA
+   HI       TX             FL
+
+
+   (from http://www.economist.com/blogs/graphicdetail/2016/03/primary-season)
+
+So I tried to make the equivalent for China.
+
+   Chinese provinces (needs work):
+   
+
+		        HL
+		        JL
+               NM       LN
+         XJ NX SX HE BJ TJ
+         QH GS SN HA SD 
+      XZ SC CQ HB AH JS SH
+	    GZ HN JX ZJ
+	    YN GX GD FJ    TW*
+		  MC HK
+	       HI
+
+
+   *not part of PRC, included for reference only!
+
+   (made by Kai)
+
+I'd also like to make a version with Chinese characters (to be finished):
+
+
+   、、、、黑
+   、、、、吉
+   、蒙、、辽
+   新宁晋冀京津 
+   青甘 SN HA SD JS SH
+   藏川 CQ HB AH ZJ
+	    GZ HN JX FJ
+	    YN GX GD     臺*
+		  澳 港
+	       琼
+
+
+   *not part of PRC, included for reference only!
+
+
+I also started seeing about making an HTML version: squaremaps.html
+
+
+Next: Germany has 16 states, France has 18 regions, Russia has 85 federal subjects, Spain has 17 autonomous communities and 50 provinces, Italy has 20 regions, Taiwan has 22 divisions, etc...
+
+https://en.wikipedia.org/wiki/States_of_Germany
+https://en.wikipedia.org/wiki/Regions_of_France
+https://en.wikipedia.org/wiki/Subdivisions_of_Russia#Federal_subjects
+https://en.wikipedia.org/wiki/Autonomous_communities_of_Spain
+https://en.wikipedia.org/wiki/Provinces_of_Spain
+https://en.wikipedia.org/wiki/Provinces_of_Italy#List_of_provinces
+https://en.wikipedia.org/wiki/Regions_of_Italy
+https://en.wikipedia.org/wiki/Administrative_divisions_of_the_Republic_of_China#Structural_hierarchy
+

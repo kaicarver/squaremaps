@@ -1,0 +1,99 @@
+<html>
+<!-- from http://stackoverflow.com/a/29670456/153144 -->
+<head>
+<title>Square Maps</title>
+<style>
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    div {
+      height: 5vw;
+      width: 5vw;
+      background: tomato;
+      display: inline-block;
+      text-align: center;
+      line-height: 5vw;
+      font-size: 3vw;
+      font-family: monospace;
+      xfont-weight: bold;
+      margin-right: -5px;
+      margin-bottom: -1px;
+      position: relative;
+      border: solid gray 1px;
+    }
+    .blank { background: transparent; border: solid transparent 1px; }
+    
+    /*demo only*/
+
+    div:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: inherit;
+      width: inherit;
+      background: rgba(200, 200, 200, 0.6);
+      transition: all 0.4s;
+    }
+    div:hover:before {
+      background: rgba(200, 200, 200, 0);
+    }
+</style>
+</head>
+<body>
+
+    <div>AL</div>
+    <div>WA</div>
+    <div>KY</div>
+    <div class="blank">&nbsp;</div>
+    <div class="blank">&nbsp;</div>
+    <div>5</div>
+    <div>6</div>
+    <div>7</div>
+    <div>8</div>
+<br>
+    <div>1</div>
+    <div>2</div>
+    <div>3</div>
+    <div>4</div>
+    <div>5</div>
+    <div>6</div>
+    <div>7</div>
+    <div class="blank">&nbsp;</div>
+    
+    <div>8</div>
+
+    <div>1</div>
+    <div>2</div>
+    <div>3</div>
+    <div>4</div>
+    <div>5</div>
+    <div>6</div>
+    <div>7</div>
+    <div>8</div>
+<br>
+    <div>1</div>
+    <div>2</div>
+    <div>3</div>
+    <div>4</div>
+    <div>5</div>
+    <div>6</div>
+    <div>7</div>
+    <div class="blank">&nbsp;</div>
+    
+    <div>8</div>
+
+    <div>1</div>
+    <div>2</div>
+    <div>3</div>
+    <div>4</div>
+    <div>5</div>
+    <div>6</div>
+    <div>7</div>
+    <div>8</div>
+
+</body>
+</html>
+
