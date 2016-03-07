@@ -58,7 +58,9 @@ I'd also like to make a version with Chinese characters (to be finished):
 I also started seeing about making an HTML version: squaremaps.html
 
 
-Next: Germany has 16 states, France has 18 regions, Russia has 85 federal subjects, Spain has 17 autonomous communities and 50 provinces, Italy has 20 regions, Taiwan has 22 divisions, etc...
+Next: Germany has 16 states, France has 18 regions, Russia has 85 federal subjects,
+Spain has 17 autonomous communities and 50 provinces, Italy has 20 regions,
+Taiwan has 22 divisions, etc...
 
 https://en.wikipedia.org/wiki/States_of_Germany
 https://en.wikipedia.org/wiki/Regions_of_France
