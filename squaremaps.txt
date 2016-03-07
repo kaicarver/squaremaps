@@ -16,6 +16,7 @@ I liked a map of the US on the Economist made with a square for each state.
    (from http://www.economist.com/blogs/graphicdetail/2016/03/primary-season)
 
 So I tried to make the equivalent for China.
+https://en.wikipedia.org/wiki/Provinces_of_China
 
    Chinese provinces (needs work):
    
